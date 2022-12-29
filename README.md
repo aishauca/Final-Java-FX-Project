@@ -8,5 +8,4 @@ Libraries
 This project uses a number of libraries:
 
 FontAwesome - Icons
-CalendarFX - sophisticated calendar views based on JavaFX.
-**You can also check out a Java Swing version if you are interested or Watch the full video here. **
+CalendarFX - sophisticated calendar views based on JavaFX.  
