@@ -4,8 +4,12 @@ This project is purely JavaFX - it gives you a basis of what to do regarding pro
 Adding data to tableview
 Setting Application Icon
 Showing FXML as modals
+
+
+
 Libraries
 This project uses a number of libraries:
 
 FontAwesome - Icons
+
 CalendarFX - sophisticated calendar views based on JavaFX.  
