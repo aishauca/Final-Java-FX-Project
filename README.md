@@ -5,11 +5,10 @@ Adding data to tableview
 Setting Application Icon
 Showing FXML as modals
 
+(Libraries)
 
-
-Libraries
 This project uses a number of libraries:
 
-FontAwesome - Icons
+FontAwesome - Icons and 
 
 CalendarFX - sophisticated calendar views based on JavaFX.  
